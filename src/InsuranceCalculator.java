@@ -17,7 +17,9 @@ public class InsuranceCalculator {
             strategy = new InsuranceStrategyVeryHigh();
             return strategy.calculate(income);
         }
+        
     }
+
 
 
 
